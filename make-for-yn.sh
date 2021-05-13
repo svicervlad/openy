@@ -1,0 +1,25 @@
+#! /bin/bash
+rm -rf modules/custom/logger_entity/
+rm -rf modules/custom/openy_activity_finder/
+rm -rf modules/custom/openy_campaign/
+rm -rf modules/custom/openy_ckeditor/
+rm -rf modules/custom/openy_er/
+rm -rf modules/openy_features/
+rm -rf modules/custom/openy_group_schedules/
+rm -rf modules/custom/openy_gtranslate/
+rm -rf modules/custom/openy_gxp/
+rm -rf modules/custom/openy_hf/
+rm -rf modules/custom/openy_inline_editing/
+rm -rf themes/openy_themes/openy_lily/
+rm -rf modules/custom/openy_map/
+rm -rf modules/custom/openy_mappings/
+rm -rf modules/custom/openy_moderation_wrapper/
+rm -rf modules/custom/openy_myy/
+rm -rf modules/custom/openy_pef_gxp_sync/
+rm -rf modules/custom/openy_repeat/
+rm -rf modules/custom/openy_schedules/
+rm -rf modules/custom/openy_socrates/
+rm -rf modules/custom/openy_system/
+rm -rf modules/custom/openy_upgrade_tool/
+rm -rf modules/custom/personify/
+rm -rf modules/custom/ymca_sync/
