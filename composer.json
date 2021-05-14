@@ -1,8 +1,11 @@
 {
-    "name": "ymcatwincities/openy",
+    "name": "svicervlad/openy",
     "type": "drupal-profile",
     "description": "Open Y distribution",
     "license": "GPL-2.0-or-later",
+    "replace": {
+        "ymcatwincities/openy": "9.2.9.0"
+    },
     "config": {
         "bin-dir": "bin/",
         "sort-packages": true
